@@ -1,0 +1,18 @@
+---
+object: set
+id: 41b3e002-ab58-46a0-8024-056ee843e267
+code: tpr
+mtgo_code: tpr
+arena_code: tpr
+name: Tempest Remastered
+uri: https://api.scryfall.com/sets/41b3e002-ab58-46a0-8024-056ee843e267
+scryfall_uri: https://scryfall.com/sets/tpr
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atpr&unique=prints
+released_at: '2015-05-06'
+set_type: masters
+card_count: 269
+printed_size: 269
+digital: true
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/tpr.svg?1694404800

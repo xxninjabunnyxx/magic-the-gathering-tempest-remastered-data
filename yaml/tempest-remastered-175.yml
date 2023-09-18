@@ -1,0 +1,112 @@
+---
+object: card
+id: 42ad0f12-29c6-420c-858e-c8d3cc1b5636
+oracle_id: 16f6438d-2a29-41cb-bf0c-4d02bd66112b
+multiverse_ids:
+- 397556
+mtgo_id: 56804
+mtgo_foil_id: 56805
+name: Hermit Druid
+lang: en
+released_at: '2015-05-06'
+uri: https://api.scryfall.com/cards/42ad0f12-29c6-420c-858e-c8d3cc1b5636
+scryfall_uri: https://scryfall.com/card/tpr/175/hermit-druid?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/2/42ad0f12-29c6-420c-858e-c8d3cc1b5636.jpg?1562429338
+  normal: https://cards.scryfall.io/normal/front/4/2/42ad0f12-29c6-420c-858e-c8d3cc1b5636.jpg?1562429338
+  large: https://cards.scryfall.io/large/front/4/2/42ad0f12-29c6-420c-858e-c8d3cc1b5636.jpg?1562429338
+  png: https://cards.scryfall.io/png/front/4/2/42ad0f12-29c6-420c-858e-c8d3cc1b5636.png?1562429338
+  art_crop: https://cards.scryfall.io/art_crop/front/4/2/42ad0f12-29c6-420c-858e-c8d3cc1b5636.jpg?1562429338
+  border_crop: https://cards.scryfall.io/border_crop/front/4/2/42ad0f12-29c6-420c-858e-c8d3cc1b5636.jpg?1562429338
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Creature — Human Druid
+oracle_text: "{G}, {T}: Reveal cards from the top of your library until you reveal
+  a basic land card. Put that card into your hand and all other cards revealed this
+  way into your graveyard."
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: banned
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 41b3e002-ab58-46a0-8024-056ee843e267
+set: tpr
+set_name: Tempest Remastered
+set_type: masters
+set_uri: https://api.scryfall.com/sets/41b3e002-ab58-46a0-8024-056ee843e267
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atpr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tpr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/42ad0f12-29c6-420c-858e-c8d3cc1b5636/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A16f6438d-2a29-41cb-bf0c-4d02bd66112b&unique=prints
+collector_number: '175'
+digital: true
+rarity: uncommon
+flavor_text: Seeking the company of plants ensures that your wits will go to seed.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: a912f57d-9622-453d-826d-ef3d83644850
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2906
+penny_rank: 297
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397556
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hermit+Druid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hermit+Druid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hermit+Druid
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Hermit+Druid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hermit+Druid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/56804?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
